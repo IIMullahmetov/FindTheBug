@@ -10,10 +10,12 @@ namespace FindTheBug
 	{
 		static void Main(string[] args)
 		{
-			bool predicate = true;
+			bool predicate = false;
 
 			if (predicate)																																																																																										Console.Write("");
 				Console.WriteLine("AHAXHAHZHAHZAHHZHZAHZ loshara");
+
+			Console.Read();
 		}
 	}
 }
